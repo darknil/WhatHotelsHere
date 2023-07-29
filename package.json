@@ -1,0 +1,16 @@
+{
+  "name": "patterntest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darknil",
+  "license": "ISC",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.33",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
